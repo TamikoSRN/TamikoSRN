@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **TypeScript - React Native**
 
-- 💬 Ask me about **JavaScript - CSS - React - Redux - NodeJS - ExpressJS - SQL - Sequelize - and more everyday ^^**
+- 💬 Ask me about **JavaScript - CSS - React - Redux - NodeJS - ExpressJS - SQL - Sequelize - React-Native and more everyday ^^**
 
-- 📫 Contact me! **WhatsApp/Phone number: (+54 9) 11 5495-5228**
+- 📫 Contact me! **WhatsApp/Phone number: (+54) 9 11 5495-5228**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/thomasereno/overlay/1635483813904/single-media-viewer/](https://www.linkedin.com/in/thomasereno/overlay/1635483813904/single-media-viewer/)
 
