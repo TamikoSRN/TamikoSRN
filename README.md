@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working at my **Soy Henry final project a mobile application for an enterprise called Nippy!**
 
-- 🌱 I’m currently learning **TypeScript - React Native**
+- 🌱 I’m currently learning **TypeScript**
 
-- 💬 Ask me about **JavaScript - CSS - React - Redux - NodeJS - ExpressJS - SQL - Sequelize - React-Native and more everyday ^^**
+- 💬 Ask me about **JavaScript - CSS - React - Redux - NodeJS - ExpressJS - SQL - PostgreSQL - React-Native and more everyday ^^**
 
 - 📫 Contact me! **WhatsApp/Phone number: (+54) 9 11 5495-5228**
 
