@@ -9,7 +9,7 @@
 
 - 📫 Contact me! **WhatsApp/Phone number: (+54) 9 11 5495-5228**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/thomasereno/overlay/1635483813904/single-media-viewer/](https://www.linkedin.com/in/thomasereno/overlay/1635483813904/single-media-viewer/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/thomasereno/overlay/1635486033574/single-media-viewer/](https://www.linkedin.com/in/thomasereno/overlay/1635483813904/single-media-viewer/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
