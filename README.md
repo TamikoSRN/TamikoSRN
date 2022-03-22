@@ -9,8 +9,6 @@
 
 - 📫 Contact me! **WhatsApp/Phone number: (+54) 9 11 5495-5228**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/thomasereno/]
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/thomasereno/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/thomasereno/" height="30" width="40" /></a>
