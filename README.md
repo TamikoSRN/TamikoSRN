@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at my **Soy Henry final project a mobile application for an enterprise called Nippy!**
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **Ruby / Ruby on Rails**
 
 - 💬 Ask me about **JavaScript - CSS - React - Redux - NodeJS - ExpressJS - SQL - PostgreSQL - React-Native and more everyday ^^**
 
