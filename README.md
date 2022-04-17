@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently graduated from the **Soy Henry bootcamp!**
 
-- 🌱 I’m currently learning **Ruby / Ruby on Rails**
+- 🌱 I’m currently learning **Typescript** and improving with **React**
 
 - 💬 Ask me about **JavaScript - CSS - React - Redux - NodeJS - ExpressJS - SQL - PostgreSQL - React-Native - Ruby - Ruby on Rails and more everyday ^^**
 
