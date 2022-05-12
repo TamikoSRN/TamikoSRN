@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently graduated from the **Soy Henry bootcamp!**
 
-- 🌱 I’m currently learning **Typescript** and improving with **Angular**!
+- 🌱 At the moment, I'm learning **Typescript** and improving with **Angular**!
 
-- 💬 Ask me about **JavaScript - CSS - React - Redux - NodeJS - ExpressJS - SQL - PostgreSQL - React-Native - Ruby - Ruby on Rails and more everyday ^^**
+- 💬 Ask me about **JavaScript - CSS - React - Redux - Angular - NodeJS - ExpressJS - SQL - PostgreSQL - React-Native - Ruby - Ruby on Rails and more everyday ^^**
 
 - 📫 Contact me! **WhatsApp/Phone number: (+54) 9 11 5495-5228**
 
@@ -27,6 +27,7 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a>
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a>
+<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
 <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/></a>
