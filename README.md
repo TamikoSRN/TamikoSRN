@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **JavaScript - CSS - React - Redux - Angular - NodeJS - ExpressJS - SQL - PostgreSQL - React-Native - Ruby - Ruby on Rails and more everyday ^^**
 
-- 📫 Contact me! **WhatsApp/Phone number: (+54) 9 11 5495-5228**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
