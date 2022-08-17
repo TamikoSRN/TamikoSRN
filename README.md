@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Thomas, call me Tamiko, if you please!</h1>
+<h1 align="center">Hi 👋, I'm Thomas </h1>
 <h3 align="center">A hardworking dev from Argentina trying to conquer the world with my codes, one line at the time!</h3>
 
 - 🔭 I’m currently graduated from the **Soy Henry bootcamp!**
