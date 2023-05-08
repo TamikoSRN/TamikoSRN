@@ -1,5 +1,5 @@
 Bruh, this profile was just cringe.
 
-*NOT* looking for a new job. These old projects are honestly pure shit lol, please stop spamming from this dead profile, I just keep it for the memories. 
+These old projects are honestly pure shit lol, I just keep this profile for the memories and sentimental value it has.
 
-バイバイリクルーターさん
+バイバイストーカーさん
