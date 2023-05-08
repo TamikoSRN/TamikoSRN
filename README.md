@@ -1,4 +1,5 @@
-Bruh, this profile and its code is just cringe
+Bruh, this profile was just cringe.
 
-Not looking for a new job. Stop spamming from a dead profile. These old projects are honestly pure shit lol
+*NOT* looking for a new job. These old projects are honestly pure shit lol, please stop spamming from this dead profile, I just keep it for the memories. 
+
 バイバイリクルーターさん
